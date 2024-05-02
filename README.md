@@ -1,2 +1,2 @@
-# GIM
-Corso di grafica in moviemnto, SUPSI, 2024
+## Esercizio 1C
+Il testo esplora il legame tra il movimento umano e quello meccanico, concentrandosi sulle marionette. Secondo l'intervistato, il movimento umano raggiunge la sua massima perfezione quando il soggetto conserva la sua innocenza e ingenuità, un tratto distintivo dell'infanzia. Il movimento meccanico rappresenta l'unico modo attraverso cui l'uomo può replicare tale grazia, che l'essere umano perde nel corso del tempo a causa della maturità. Il signor C, evidenzia la differenza fondamentale tra i due tipi di movimento: l'uomo è soggetto a leggi che emergono solo dopo l'acquisizione della coscienza di sé e questo inevitabilmente compromette la grazia e l'armonia del movimento. D'altra parte, le marionette nonostante siano create dall'uomo, essendo prodotti privi di coscienza, non sono soggette a questa perdita di grazia e possono essere manipolate dall'uomo in modo simile a come Dio fece con l'uomo. 
