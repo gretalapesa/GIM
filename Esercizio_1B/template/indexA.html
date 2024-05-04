@@ -3,13 +3,13 @@
 <head>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="Nome Cognome" />
-	<title>Rotazione 3</title>
+	<title>Esercizio 1B</title>
 	<style type="text/css">
 		html{
 			height:100%;
 		}
 		body{
-			background-color: rgb(235,235,235);
+			background-color: rgb(255, 255, 255);
 		}
 		canvas{
 			position:absolute;
@@ -34,17 +34,17 @@
 
 		Sequencer.make({
 			canvas       	 : document.querySelector("#sx"),
-			from         	 : "img/cerchio/0000.png",
-			to           	 : "img/cerchio/0099.png",
+			from         	 : "img/cerchio_1/0000.png",
+			to           	 : "img/cerchio_1/0083.png",
 			direction        : "x",
 			playMode         : "hover",
 			loop         	 : "loop",
 		})
 		Sequencer.make({
 			canvas       	 : document.querySelector("#dx"),
-			from         	 : "img/barra/0000.png",
-			to           	 : "img/barra/0100.png",
-			direction        : "x",
+			from         	 : "img/cerchio_2/0000.png",
+			to           	 : "img/cerchio_2/0083.png",
+			direction        : "-y",
 			playMode         : "hover",
 			loop         	 : "loop",
 		})
