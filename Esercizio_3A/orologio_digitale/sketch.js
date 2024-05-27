@@ -38,5 +38,6 @@ function draw() {
 
 	const ora = h + ":" + m + ":" + s
 	text (txt, width/2, height/2)
+
 	
 }
