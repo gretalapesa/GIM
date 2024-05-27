@@ -31,4 +31,4 @@ https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
 
 # Esercizio_3B
 https://gretalapesa.github.io/GIM//Esercizio_3B/pioggia/index.html    
-https://gretalapesa.github.io/GIM//Esercizio_3B/neve/index.html
+https://gretalapesa.github.io/GIM//Esercizio_3B/neve/index.html 
