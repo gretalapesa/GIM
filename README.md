@@ -25,6 +25,6 @@ https://gretalapesa.github.io/GIM/Esercizio_1C/README.md
 https://gretalapesa.github.io/GIM/
 
 # Esercizio_3A
-https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
-https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico_prova/index.html
-https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
+https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico/index.html    
+https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico_prova/index.html    
+https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_digitale/index.html     
