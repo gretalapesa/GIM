@@ -21,7 +21,3 @@ https://gretalapesa.github.io/GIM/Esercizio_1B/template/indexA.html
 # Esercizio_1C
 https://gretalapesa.github.io/GIM/Esercizio_1C/README.md 
 
-# Esercizio_2C
-
-# Esercizio_3A
-https://gretalapesa.github.io/GIM/orologio_analogico/index.html
