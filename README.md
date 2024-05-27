@@ -20,3 +20,11 @@ https://gretalapesa.github.io/GIM/Esercizio_1B/template/indexA.html
 
 # Esercizio_1C
 https://gretalapesa.github.io/GIM/Esercizio_1C/README.md 
+
+# Esercizio_2
+https://gretalapesa.github.io/GIM/
+
+# Esercizio_3A
+https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
+https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico_prova/index.html
+https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
