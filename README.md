@@ -1,5 +1,5 @@
 # GIM
-Corso di grafica in moviemnto, SUPSI, 2024
+Corso di grafica in movimento, SUPSI, 2024
 
 
 # Esercizio_1A
