@@ -22,7 +22,7 @@ https://gretalapesa.github.io/GIM/Esercizio_1B/template/indexA.html
 https://gretalapesa.github.io/GIM/Esercizio_1C/README.md 
 
 # Esercizio_2
-https://gretalapesa.github.io/GIM/Esercizio_2/template/indexA.html
+https://gretalapesa.github.io/GIM/Esercizio_2/template/tipografia_espressiva.html
 
 # Esercizio_3A
 https://gretalapesa.github.io/GIM/Esercizio_3A/orologio_analogico/index.html   
