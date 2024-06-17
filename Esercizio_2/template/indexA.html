@@ -3,52 +3,41 @@
 <head>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="Greta Lapesa" />
-	<title>Prova 2</title>
+	<title>Esercizio 2</title>
 	<style type="text/css">
 		html{
 			height:100%;
 		}
 		body{
-			background-color: rgb(235,235,235);
+			background-color: rgb(255, 255, 255);
 		}
 		canvas{
 			position:absolute;
-			margin-left: -200px;
+			margin-left: 0px;
 			margin-top: -200px;
 			top: 50%;
 		}
 		#sx {
 			left: calc(50% - 220px);
 		}
-		#dx {
-			left: calc(50% + 220px);
-		}
+		
 	</style>
 </head>
 <body>
 	<canvas id="sx" width=400 height=400></canvas>
-	<canvas id="dx" width=400 height=400></canvas>
 	<script type="module">
 
 		import Sequencer from './js/sequencer.min.js';
 
 		Sequencer.make({
 			canvas       	 : document.querySelector("#sx"),
-			from         	 : "img/comp 1_/0000.png",
-			to           	 : "img/comp 1_/0077.png",
+			from         	 : "img/ONG/00.png",
+			to           	 : "img/ONG/77.png",
 			direction        : "x",
 			playMode         : "hover",
 			loop         	 : "loop",
 		})
-		Sequencer.make({
-			canvas       	 : document.querySelector("#dx"),
-			from         	 : "img/comp 1_/0000.png",
-			to           	 : "img/comp 1_/0077.png",
-			direction        : "-x",
-			playMode         : "hover",
-			loop         	 : "loop",
-		})
-
+		
 	</script>
 </body>
 </html>
