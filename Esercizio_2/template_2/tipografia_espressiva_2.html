@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="Greta Lapesa" />
-	<title>Esercizio 2</title>
+	<title>Tipografia espressiva</title>
 	<style type="text/css">
 		html{
 			height:100%;
@@ -13,31 +13,25 @@
 		}
 		canvas{
 			position:absolute;
-			margin-left: 0px;
+			left:50%;
+			top:50%;
+			margin-left: -200px;
 			margin-top: -200px;
-			top: 50%;
 		}
-		#sx {
-			left: calc(50% - 220px);
-		}
-		
 	</style>
 </head>
 <body>
-	<canvas id="sx" width=400 height=400></canvas>
 	<script type="module">
 
 		import Sequencer from './js/sequencer.min.js';
 
 		Sequencer.make({
-			canvas       	 : document.querySelector("#sx"),
 			from         	 : "img/marie_curie/0000.png",
 			to           	 : "img/marie_curie/0079.png",
-			direction        : "x",
-			playMode         : "hover",
-			loop         	 : "loop",
+			playMode     	 : "auto",
+			loop         	 : "loop", // "pong" 
+			interval     	 : 20,
 		})
-		
 	</script>
 </body>
 </html>
